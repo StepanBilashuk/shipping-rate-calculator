@@ -1,0 +1,10 @@
+# Build output
+bin/
+*.out
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
