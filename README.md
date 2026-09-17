@@ -2,7 +2,7 @@
 
 Command-line tool for calculating parcel shipping costs in EUR.
 
-Requires Go 1.26 or later. No third-party dependencies are used.
+Requires Go 1.22 or later. No third-party dependencies are used.
 
 ## Running it
 
